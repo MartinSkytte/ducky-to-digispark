@@ -1,0 +1,6 @@
+[submodule "duck2spark"]
+	path = duck2spark
+	url = https://github.com/mame82/duck2spark
+[submodule "USB-Rubber-Ducky"]
+	path = USB-Rubber-Ducky
+	url = https://github.com/hak5darren/USB-Rubber-Ducky
